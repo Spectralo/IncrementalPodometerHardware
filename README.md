@@ -34,3 +34,5 @@ And we finally opted for an ADXL345 over an ADXL335 because it has I2C and is mo
 - [1N5817](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_LGE-1N5817_C7544876.html)
 - [JS202011SCQN](https://www.lcsc.com/product-detail/Slide-Switches_C-K-JS202011SCQN_C221666.html) (slide switch)
 - Some 1uf capacitors
+
+![image](https://github.com/Spectralo/IncrementalPodometerHardware/assets/122629939/8b52cbc5-6c25-48c8-80b6-783f29762f13)
