@@ -5,7 +5,7 @@ You can take a look at schematics in the /pcb directory or just keep reading thi
 
 **If you want to look at the software of the Incremental Podometer look at [this repo](https://github.com/theMathR/incremental-podometer/tree/main)**
 
-# It's history
+# Its history
 
 So first, what is the Incremental Podometer ?
 It's a podometer ! (No wwwaaaaayyyyy) But. With. An. Incremental Game !!!!!!!
